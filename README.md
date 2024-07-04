@@ -1,4 +1,4 @@
-# Digital-Twinning Festo® CIROS with the Physical Model of a Kinova® Gen3 Robot
+# Digital-Twinning Festo® CIROS with Physical Robot Models
 
 A digital-twinning simulation platform for industrial manufacturing facilitated by:
 - **MATLAB®** [Simulink](https://nl.mathworks.com/products/simulink.html)
